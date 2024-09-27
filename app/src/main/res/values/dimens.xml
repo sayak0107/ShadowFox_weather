@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <!-- res/values/dimens.xml (default) -->
+    <resources>
+    <dimen name="text_size_large">22sp</dimen>
+    <dimen name="padding_standard">24dp</dimen>
+    </resources>
+
+    <!-- res/values-sw600dp/dimens.xml (for tablets) -->
+
